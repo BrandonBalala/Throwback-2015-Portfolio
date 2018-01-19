@@ -1,0 +1,70 @@
+#indexBody{
+	
+	background-image: url("assets/montreal.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center
+}
+#laRondeBody{
+	
+	background-image: url("assets/laronde.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position:center
+}
+#bellCenterBody{
+	
+	background-image: url("assets/bellcenterbg.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position:center
+}
+#scienceCentreBody{
+	
+	background-image: url("assets/science.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position:center
+}
+#container{
+
+	height: 100%;
+	width: 100%;
+}
+
+#header{
+
+	width: 100%;
+	text-align: center;
+	margin-bottom: 15;
+}
+
+#content{
+
+	width: 100%;
+	margin-top: 0;
+	opacity: 0.925;
+}
+
+#info{
+	
+	width: 50%;
+	margin: 0 auto;
+	background-color: #8DAAB8;
+	text-align: center;
+}
+
+#footer{
+
+	width: 100%;
+	text-align: center;
+	margin-top: 0;
+}
+
+#footerContent{
+	
+	width: 50%;
+	margin: 0 auto;
+	background-color: #2142A3;
+	text-align: center;
+}
